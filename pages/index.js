@@ -82,7 +82,7 @@ function Home() {
             </Head>
 
             <main className={styles.main}>
-                <h1 className={styles.title}>Let's book it!</h1>
+                <h1 className={styles.title}>Your Schedule</h1>
 
                 <Scheduler
                     className={styles.scheduler}
